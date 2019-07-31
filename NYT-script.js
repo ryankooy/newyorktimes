@@ -16,4 +16,4 @@ $(document).ready(function() {
     for (var i=0; i < art.length; i++) {
       console.log(art[i].snippet)
     }
-  })
+  });
